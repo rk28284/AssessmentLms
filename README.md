@@ -102,7 +102,7 @@ cd AssessmentLms</code></pre>
             <pre><code>npm install</code></pre>
         </li>
         <li><strong>Run the application</strong>:
-            <pre><code>npm start</code></pre>
+            <pre><code>npm run dev</code></pre>
         </li>
         <li><strong>Open your browser</strong> and navigate to <code>http://localhost:3000</code> to view the application.</li>
     </ol>
