@@ -96,7 +96,7 @@
     <ol>
         <li><strong>Clone the repository</strong>:
             <pre><code>git clone https://github.com/rk28284/AssessmentLms.git
-cd lms-react-page</code></pre>
+cd AssessmentLms</code></pre>
         </li>
         <li><strong>Install dependencies</strong>:
             <pre><code>npm install</code></pre>
