@@ -1,0 +1,189 @@
+
+{
+  "data": [
+      {
+          "id": 1,
+          "videoUrl": "https://www.youtube.com/embed/3HkbLdWQ4_Q" ,
+        
+          "assessment": {
+              "type": "multipleChoice",
+              "question": "What is the capital of France?",
+              "options": [
+                  "Paris",
+                  "Berlin",
+                  "Madrid",
+                  "Rome"
+              ],
+              "answer": "Paris"
+          }
+      },
+      {
+          "id": 2,
+          "videoUrl": "https://www.youtube.com/embed/mAvuom42NyY",
+          "assessment": {
+              "type": "shortAnswer",
+              "question": "What is 2 + 2?",
+              "answer": "4"
+          }
+      },
+      {
+          "id": 3,
+          "videoUrl": "https://www.youtube.com/embed/K4TOrB7at0Y?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "multipleChoice",
+              "question": "Which planet is known as the Red Planet?",
+              "options": [
+                  "Earth",
+                  "Mars",
+                  "Jupiter",
+                  "Saturn"
+              ],
+              "answer": "Mars"
+          }
+      },
+      {
+          "id": 4,
+          "videoUrl": "https://www.youtube.com/embed/3fumBcKC6RE?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "shortAnswer",
+              "question": "Who wrote 'To Kill a Mockingbird'?",
+              "answer": "Harper Lee"
+          }
+      },
+      {
+          "id": 5,
+          "videoUrl": "https://www.youtube.com/embed/e-ORhEE9VVg?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "multipleChoice",
+              "question": "What is the largest mammal in the world?",
+              "options": [
+                  "Elephant",
+                  "Blue Whale",
+                  "Giraffe",
+                  "Hippopotamus"
+              ],
+              "answer": "Blue Whale"
+          }
+      },
+      {
+          "id": 6,
+          "videoUrl": "https://www.youtube.com/embed/zpOULjyy-n8?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "shortAnswer",
+              "question": "What is the square root of 64?",
+              "answer": "8"
+          }
+      },
+      {
+          "id": 7,
+          "videoUrl": "https://www.youtube.com/embed/V-_O7nl0Ii0?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "multipleChoice",
+              "question": "Which element has the chemical symbol 'O'?",
+              "options": [
+                  "Oxygen",
+                  "Gold",
+                  "Osmium",
+                  "Silver"
+              ],
+              "answer": "Oxygen"
+          }
+      },
+      {
+          "id": 8,
+          "videoUrl": "https://www.youtube.com/embed/hTWKbfoikeg?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "shortAnswer",
+              "question": "What is the currency of Japan?",
+              "answer": "Yen"
+          }
+      },
+      {
+          "id": 9,
+          "videoUrl": "https://www.youtube.com/embed/2Vv-BfVoq4g?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "multipleChoice",
+              "question": "Which is the smallest prime number?",
+              "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "5"
+              ],
+              "answer": "2"
+          }
+      },
+      {
+          "id": 10,
+          "videoUrl": "https://www.youtube.com/embed/9bZkp7q19f0?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "shortAnswer",
+              "question": "What is the chemical formula for water?",
+              "answer": "H2O"
+          }
+      },
+      {
+          "id": 11,
+          "videoUrl": "https://www.youtube.com/embed /ZZ5LpwO-An4?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "multipleChoice",
+              "question": "What is the capital of Australia?",
+              "options": [
+                  "Sydney",
+                  "Melbourne",
+                  "Canberra",
+                  "Perth"
+              ],
+              "answer": "Canberra"
+          }
+      },
+      {
+          "id": 12,
+          "videoUrl": "https://www.youtube.com/embed/X2WH8mHJnhM?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "shortAnswer",
+              "question": "Who painted the Mona Lisa?",
+              "answer": "Leonardo da Vinci"
+          }
+      },
+      {
+          "id": 13,
+          "videoUrl": "https://www.youtube.com/embed/L_jWHffIx5E?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "multipleChoice",
+              "question": "What is the largest planet in our solar system?",
+              "options": [
+                  "Earth",
+                  "Venus",
+                  "Jupiter",
+                  "Saturn"
+              ],
+              "answer": "Jupiter"
+          }
+      },
+      {
+          "id": 14,
+          "videoUrl": "https://www.youtube.com/embed/yPYZpwSpKmA?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "shortAnswer",
+              "question": "What is the speed of light in vacuum (in m/s)?",
+              "answer": "299792458"
+          }
+      },
+      {
+          "id": 15,
+          "videoUrl": "https://www.youtube.com/embed/6n3pFFPSlW4?rel=0&modestbranding=1&autoplay=0&controls=1",
+          "assessment": {
+              "type": "multipleChoice",
+              "question": "Who discovered gravity?",
+              "options": [
+                  "Albert Einstein",
+                  "Isaac Newton",
+                  "Galileo Galilei",
+                  "Nikola Tesla"
+              ],
+              "answer": "Isaac Newton"
+          }
+      }
+  ]
+}
